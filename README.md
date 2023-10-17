@@ -13,5 +13,5 @@ Simple application written by learning golang.
 
 ### LOG
 
-** [ 2023-10-17 ] Let write text with failures **
+**[ 2023-10-17 ] Let write text with failures**
 
